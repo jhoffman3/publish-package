@@ -1,3 +1,8 @@
 {
-  "your": "json config here"
+  "name": "@jhoffman3/npm-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhoffman3/publish-package.git",
+    "directory": "sample-packages/npm"
+  }
 }
