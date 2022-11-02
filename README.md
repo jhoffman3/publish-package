@@ -10,7 +10,7 @@ This exercise checks your ability to publish to a GitHub Packages registry. It i
 
 :information_source: The use of GitHub Actions also means that it may take the grading workflow a few seconds and sometimes minutes to run.
 
-## Instructions
+## Instructions 1
 
 <!-- Specific instructions for your exercise -->
 
