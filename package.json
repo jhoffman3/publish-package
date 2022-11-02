@@ -1,4 +1,5 @@
 {
-  "name": "@jhoffman3/npm-test",
-  "repository": "https://github.com/jhoffman3/publish-package.git"
+    "name": "@jhoffman3/publish-package",
+    "version": "1.0",
+    "repository": "https://github.com/jhoffman3/publish-package.git"
 }
