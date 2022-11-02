@@ -1,9 +1,12 @@
 name: Grading workflow
 
 on:
-  registry_package:
-    types: [published]
+#  registry_package:
+#    types: [published]
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   grade-learner:
